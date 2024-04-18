@@ -1,0 +1,9 @@
+{
+    "commands": [
+        {
+            "id": 1,
+            "command": "whoami",
+            "description": "Displays the username"
+        }
+    ]
+}
